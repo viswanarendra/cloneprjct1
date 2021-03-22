@@ -11,6 +11,8 @@ namespace cloneprjct1
         static void Main(string[] args)
         {
             Console.WriteLine("Hi i am Trupti");
+            Console.WriteLine("Hello this is Vithal");
+            Console.Read();
         }
     }
 }
