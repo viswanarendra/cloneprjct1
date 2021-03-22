@@ -10,6 +10,7 @@ namespace cloneprjct1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi i am Trupti");
             int i=1;
             Console.WriteLine(i);
         }
